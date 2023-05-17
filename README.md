@@ -1,5 +1,5 @@
 # Springboot-MVC-Docker-Thymeleaf
-Aplicacao web de gerenciamento de cargos, departamentos e funcionarios usando Springboot, o template engina do Spring Thymeleaf e um container Dokcer rodando MySQL.
+Aplicacao web de gerenciamento de cargos, departamentos e funcionarios.
 
 ## Dependencias
 - Spring starter data jpa 
