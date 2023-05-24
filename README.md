@@ -4,7 +4,7 @@ Aplicacao web de gerenciamento de cargos, departamentos e funcionarios.
 ##Tecnologies
 - Springboot
 - Java
-- Postgres
+- Mysql
 
 ## Dependencias
 - Spring starter data jpa 
