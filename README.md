@@ -1,5 +1,10 @@
-# Springboot-MVC-Docker-Thymeleaf
+# Employee App
 Aplicacao web de gerenciamento de cargos, departamentos e funcionarios.
+
+##Tecnologies
+- Springboot
+- Java
+- Postgres
 
 ## Dependencias
 - Spring starter data jpa 
